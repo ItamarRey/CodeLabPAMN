@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="ken">Ken</string>
+    <string name="ken_year">2024</string>
+    <string name="frieren">Frieren</string>
+    <string name="frieren_year">1000 a.C.</string>
+    <string name="gojo">Gojo Satoru</string>
+    <string name="gojo_year">2022</string>
+    <string name="hinata">Hinata</string>
+    <string name="hinata_year">2015</string>
+</resources>
